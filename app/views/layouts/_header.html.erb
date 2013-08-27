@@ -22,7 +22,13 @@
         </ul>
 
         <ul class="nav pull-right">
-          <li><%= link_to 'Login', '#' %></a></li>
+
+          <% if user_signed_in? then %>
+          <li><%= link_to 'Edit Profile', edit_user_registration_path %></a></li>
+          <li><%= link_to 'Logout', destroy_user_session_path ,:method => :delete %></a></li>
+           <% else %>
+           <li><%= link_to 'Login', new_user_session_path %></a></li>
+            <% end %>
         </ul>
 
       </div>
