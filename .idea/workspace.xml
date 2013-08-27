@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b28eaa33-d471-4b51-b75a-8bda0fe7b8c7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/omr.iml" afterPath="$PROJECT_DIR$/.idea/omr.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="b28eaa33-d471-4b51-b75a-8bda0fe7b8c7" name="Default" comment="" />
     <ignored path="omr.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="b28eaa33-d471-4b51-b75a-8bda0fe7b8c7" time="1377582651459" ignored="false" />
